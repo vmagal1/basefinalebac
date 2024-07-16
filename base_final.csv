@@ -1,0 +1,5 @@
+qtd_filhos,idade,tempo_emprego,possui_celular,possui_fone_comercial,possui_fone,possui_email,qt_pessoas_residencia,mau,sexo_M,posse_de_veiculo_Y,posse_de_imovel_Y,tipo_renda_Empresário,educacao_Médio,educacao_Superior,estado_civil_Divorciado,estado_civil_Solteiro,tipo_residencia_Casa
+2,30.0,5.0,1,0,1,1,4.0,True,True,True,True,False,False,True,False,True,True
+0,45.0,20.0,1,1,1,1,2.0,False,False,False,False,True,True,False,False,False,False
+1,25.0,2.0,1,0,0,1,3.0,False,False,True,False,True,False,True,False,True,True
+3,50.0,25.0,1,1,1,1,2.0,True,True,False,True,False,False,False,True,False,False
